@@ -23,7 +23,7 @@ th {
 }
 
 body {
-       background: url('https://1.bp.blogspot.com/-WMVVI7m8v2U/VN3hmiAwD7I/AAAAAAAAA6U/unTqck9cazo/s1600/Train-3.jpg') no-repeat center center fixed;
+       background: url('../Train-3.jpg') no-repeat center center fixed;
        -webkit-background-size: cover;
        -moz-background-size: cover;
        -o-background-size: cover;
