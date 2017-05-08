@@ -75,7 +75,7 @@ $(document).ready(function() {
     "</td>" +
     "<td class='col-xs-1'>" + "<input type='submit' value='remove train' class='remove-train btn btn-primary btn-sm'" +
     "</tr>");
-  }, function(errorObject));
+  }, function(errorObject);
 
   $("body").on("click", ".remove-train", function(){
     $(this).closest('tr').remove();
