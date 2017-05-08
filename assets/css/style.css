@@ -1,0 +1,65 @@
+h3 {
+font-family: 'Bitter', serif;
+font-family: 'Sacramento';
+font-family: 'Raleway', sans-serif;
+}
+
+th {
+  font-weight: bold;
+  /*font-style: italic;*/
+  background-color: #3b7db5;
+  /*border: solid #0d1b28;*/
+}
+
+.schedule-container {
+  min-width: 800px;
+  font-family: 'Bitter', serif;
+  font-family: 'Sacramento';
+  font-family: 'Raleway', sans-serif;
+}
+
+.input-contianer {
+  min-width: 800px;
+}
+
+body {
+       background: url('http://1.bp.blogspot.com/-WMVVI7m8v2U/VN3hmiAwD7I/AAAAAAAAA6U/unTqck9cazo/s1600/Train-3.jpg') no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+       color: white;
+       font-family: 'Bitter', serif;
+       font-family: 'Sacramento';
+       font-family: 'Raleway', sans-serif;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 6px;
+}
+
+.jumbotron {
+  color: white;
+  background-color: #428BCA;
+  min-width: 800px;
+  max-height: 120px;
+  text-align: center;
+  margin-top: -50px;
+  -webkit-text-stroke-width: .010px;
+  -webkit-text-stroke-color: black;
+  /*border: solid;*/
+}
+
+.panel-heading {
+  background-color: black;
+  color: black;
+}
+
+.panel-primary {
+  background-color: rgba(0,0,0,0.45);
+}
+
+.btn {
+  border: outset;
+}
